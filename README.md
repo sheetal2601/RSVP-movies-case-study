@@ -1,9 +1,2 @@
-- 👋 Hi, I’m @sheetal2601
-- 👀 I’m interested in Data science /Data analytics
-- 🌱 I’m currently learning Data Science PG programm from IIIT, Banglore 
-- 💞️ I’m looking to collaborate on Data science /Data Analytics Project
-
-<!---
-sheetal2601/sheetal2601 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A comprehensive case study on RSVP Movies As It was a group project , where we utilized SQL to analyze and extract valuable insights within the film industry. By leveraging our SQL expertise, we delved into the RSVP Movies database to uncover patterns, trends, and correlations, ultimately enhancing decision-making processes for the production company.This project showcased our proficiency in SQL data manipulation, aggregation, and analysis techniques. Through the utilization of various SQL functions and joins, we provided comprehensive insights into RSVP Movies' operations, helping the company make informed strategic decisions. Additionally, I implemented advanced SQL techniques, such as subqueries and window functions, to derive additional insights and uncover hidden patterns within the data.A comprehensive case study on RSVP Movies As It was a group project , where we utilized SQL to analyze and extract valuable insights within the film industry. By leveraging our SQL expertise, we delved into the RSVP Movies database to uncover patterns, trends, and correlations, ultimately enhancing decision-making processes for the production company. This project showcased our proficiency in SQL data manipulation, aggregation, and analysis techniques. Through the utilization of various SQL functions and joins, we provided comprehensive insights into RSVP Movies' operations, helping the company make informed strategic decisions. Additionally, I implemented advanced SQL techniques, such as subqueries and window functions, to derive additional insights and uncover hidden patterns within the data.
+Skills: MySQL · Data Manipulation · Data Analytics
